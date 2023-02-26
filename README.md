@@ -16,10 +16,10 @@ The codebase version for this professional certificate was from Fall 2022 during
 
 ### Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C1%20-%20TensorFlow%20Introduction%20-%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20Deep%20Learning/C1.pdf))
 
-  - [Week 1 - PA 1 - Housing Prices]()
-  - [Week 2 - PA 2 - Implementing Callbacks in TensorFlow using the MNIST Dataset]()
-  - [Week 3 - PA 3 - Improve MNIST with Convolutions]()
-  - [Week 4 - PA 4 - Handling Complex Images]()
+  - [Week 1 - PA 1 - Housing Prices](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C1%20-%20TensorFlow%20Introduction%20-%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20Deep%20Learning/C1W1_Assignment.ipynb)
+  - [Week 2 - PA 2 - Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C1%20-%20TensorFlow%20Introduction%20-%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20Deep%20Learning/C1W2_Assignment.ipynb)
+  - [Week 3 - PA 3 - Improve MNIST with Convolutions](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C1%20-%20TensorFlow%20Introduction%20-%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20Deep%20Learning/C1W3_Assignment.ipynb)
+  - [Week 4 - PA 4 - Handling Complex Images](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C1%20-%20TensorFlow%20Introduction%20-%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20Deep%20Learning/C1W4_Assignment.ipynb)
 
 ### Course 2: Convolutional Neural Networks in TensorFlow ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/C2%20Certificate.pdf))
 
