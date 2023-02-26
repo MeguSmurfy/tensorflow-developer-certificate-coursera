@@ -31,7 +31,7 @@ The codebase version for this professional certificate was from Fall 2022 during
 ### Course 3: Natural Language Processing in TensorFlow ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/C3%20Certificate.pdf))
 
   - [Week 1 - PA 1 - Explore the BBC News Archive]()
-  - [Week 2 - PA 2 - Categorizing the BBC News Archive]()
+  - [Week 2 - PA 2 - Diving Deeper into the BBC News Archive]()
   - [Week 3 - PA 3 - Exploring Overfitting in NLP]()
   - [Week 4 - PA 4 - Writing Shakespeare with LSTMs]()
   
