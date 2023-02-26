@@ -37,9 +37,7 @@ The codebase version for this professional certificate was from Fall 2022 during
   
 ### Course 4: Sequences, Time Series and Prediction ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C4%20-%20Sequence%2C%20Time%20Series%20and%20Prediction/C4%20Certificate.pdf))
 
-  - [Week 1 - PA 1 - Create and Predict Synthetic Data]()
-  - [Week 2 - PA 2 - Predict with a DNN]()
-  - [Week 3 - PA 3 - Using RNN's and LSTM's for time series]()
-  - [Week 4 - PA 4 - Daily Minimum Temperatures in Melbourne - Real Life Data]()
-
-  
+  - [Week 1 - PA 1 - Working with Generated Time Series]()
+  - [Week 2 - PA 2 - Forecasting using Neural Networks]()
+  - [Week 3 - PA 3 - Forecast using RNNs or LSTMs]()
+  - [Week 4 - PA 4 - Adding CNNs to improve forecasts]()
