@@ -23,16 +23,16 @@ The codebase version for this professional certificate was from Fall 2022 during
 
 ### Course 2: Convolutional Neural Networks in TensorFlow ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/C2%20Certificate.pdf))
 
-  - [Week 1 - PA 1 - Cats vs. Dogs]()
+  - [Week 1 - PA 1 - Cats vs. Dogs](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/C2W1_Assignment.ipynb)
   - [Week 2 - PA 2 - Cats vs. Dogs using Augmentation]()
   - [Week 3 - PA 3 - Horses vs. Humans using Transfer Learning]()
   - [Week 4 - PA 4 - Multi-class Classifier]()
 
 ### Course 3: Natural Language Processing in TensorFlow ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/C3%20Certificate.pdf))
 
-  - [Week 1 - PA 1 - Explore the BBC News Archive]()
-  - [Week 2 - PA 2 - Diving Deeper into the BBC News Archive]()
-  - [Week 3 - PA 3 - Exploring Overfitting in NLP]()
+  - [Week 1 - PA 1 - Explore the BBC News Archive](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/C3W1_Assignment.ipynb)
+  - [Week 2 - PA 2 - Diving Deeper into the BBC News Archive](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/C3W2_Assignment.ipynb)
+  - [Week 3 - PA 3 - Exploring Overfitting in NLP](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/C3W3_Assignment.ipynb)
   - [Week 4 - PA 4 - Predicting the Next Word]()
   
 ### Course 4: Sequences, Time Series and Prediction ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C4%20-%20Sequence%2C%20Time%20Series%20and%20Prediction/C4%20Certificate.pdf))
