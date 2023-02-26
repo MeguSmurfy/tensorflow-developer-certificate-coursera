@@ -37,7 +37,7 @@ The codebase version for this professional certificate was from Fall 2022 during
   
 ### Course 4: Sequences, Time Series and Prediction ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C4%20-%20Sequence%2C%20Time%20Series%20and%20Prediction/C4%20Certificate.pdf))
 
-  - [Week 1 - PA 1 - Working with Generated Time Series]()
-  - [Week 2 - PA 2 - Forecasting using Neural Networks]()
-  - [Week 3 - PA 3 - Forecast using RNNs or LSTMs]()
+  - [Week 1 - PA 1 - Working with Generated Time Series](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C4%20-%20Sequence%2C%20Time%20Series%20and%20Prediction/C4W1_Assignment.ipynb)
+  - [Week 2 - PA 2 - Forecasting using Neural Networks](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C4%20-%20Sequence%2C%20Time%20Series%20and%20Prediction/C4W2_Assignment.ipynb)
+  - [Week 3 - PA 3 - Forecast using RNNs or LSTMs](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C4%20-%20Sequence%2C%20Time%20Series%20and%20Prediction/C4W3_Assignment.ipynb)
   - [Week 4 - PA 4 - Adding CNNs to improve forecasts]()
