@@ -16,21 +16,30 @@ The codebase version for this professional certificate was from Fall 2022 during
 
 ### Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C1%20-%20TensorFlow%20Introduction%20-%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20Deep%20Learning/C1.pdf))
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_one_hidden_layer.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Week 1 - PA 1 - Housing Prices]()
+  - [Week 2 - PA 2 - Handwriting Recognition]()
+  - [Week 3 - PA 3 - Improve MNIST with Convolutions]()
+  - [Week 4 - PA 4 - Handling Complex Images]()
 
 ### Course 2: Convolutional Neural Networks in TensorFlow ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/C2%20Certificate.pdf))
 
-  - [Week 1 - PA 1 - Initialization](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Gradient_Checking.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Optimization_methods.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/MeguSmurfy/deep-learning-specialization-coursera/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Tensorflow_introduction.ipynb)
+  - [Week 1 - PA 1 - Cats vs. Dogs]()
+  - [Week 2 - PA 2 - Cats vs. Dogs using Augmentation]()
+  - [Week 3 - PA 3 - Horses vs. Humans using Transfer Learning]()
+  - [Week 4 - PA 4 - Multi-class Classifier]()
 
 ### Course 3: Natural Language Processing in TensorFlow ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/C3%20Certificate.pdf))
+
+  - [Week 1 - PA 1 - Explore the BBC News Archive]()
+  - [Week 2 - PA 2 - Categorizing the BBC News Archive]()
+  - [Week 3 - PA 3 - Exploring Overfitting in NLP]()
+  - [Week 4 - PA 4 - Writing Shakespeare with LSTMs]()
   
 ### Course 4: Sequences, Time Series and Prediction ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C4%20-%20Sequence%2C%20Time%20Series%20and%20Prediction/C4%20Certificate.pdf))
+
+  - [Week 1 - PA 1 - Create and Predict Synthetic Data]()
+  - [Week 2 - PA 2 - Predict with a DNN]()
+  - [Week 3 - PA 3 - Using RNN's and LSTM's for time series]()
+  - [Week 4 - PA 4 - Daily Minimum Temperatures in Melbourne - Real Life Data]()
 
   
