@@ -17,7 +17,7 @@ The codebase version for this professional certificate was from Fall 2022 during
 ### Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ([Course Certificate](https://github.com/MeguSmurfy/tensorflow-developer-certificate-coursera/blob/main/C1%20-%20TensorFlow%20Introduction%20-%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20Deep%20Learning/C1.pdf))
 
   - [Week 1 - PA 1 - Housing Prices]()
-  - [Week 2 - PA 2 - Handwriting Recognition]()
+  - [Week 2 - PA 2 - Implementing Callbacks in TensorFlow using the MNIST Dataset]()
   - [Week 3 - PA 3 - Improve MNIST with Convolutions]()
   - [Week 4 - PA 4 - Handling Complex Images]()
 
